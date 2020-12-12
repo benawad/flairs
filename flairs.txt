@@ -22,5 +22,6 @@ ruby.png
 rust.png
 svelte.png
 swift.png
+tailwindcss.png
 typescript.png
 vue.png
