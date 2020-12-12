@@ -16,6 +16,7 @@ kubernetes.png
 lua.png
 python.png
 react.png
+ruby.png
 rust.png
 svelte.png
 swift.png
