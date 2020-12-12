@@ -11,11 +11,13 @@ haskell.png
 html.png
 java.png
 javascript.png
+jquery.png
 kafka.png
 kotlin.png
 kubernetes.png
 laravel.png
 lua.png
+php.png
 python.png
 react.png
 ruby.png
