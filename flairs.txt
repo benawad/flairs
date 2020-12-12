@@ -18,6 +18,7 @@ python.png
 react.png
 ruby.png
 rust.png
+sass.png
 svelte.png
 swift.png
 typescript.png
