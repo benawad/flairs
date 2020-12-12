@@ -13,6 +13,7 @@ javascript.png
 kafka.png
 kotlin.png
 kubernetes.png
+laravel.png
 lua.png
 python.png
 react.png
