@@ -9,6 +9,7 @@ flutter.png
 go.png
 haskell.png
 html.png
+ionic.png
 java.png
 javascript.png
 jquery.png
