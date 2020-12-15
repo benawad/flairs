@@ -5,8 +5,10 @@ import os
 flairs = os.listdir("raw/")
 
 for flair in flairs:
-    im = Image.open("raw/" + flair)
-    im.resize((52, 52)).save("resized/" + flair)
+    if flair.endswith(".png"):
+        im = Image.open("raw/" + flair)
+        print(flair)
+        im.resize((52, 52)).save("resized/" + flair)
 
 resized_flairs = os.listdir("resized/")
 
