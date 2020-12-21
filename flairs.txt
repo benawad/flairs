@@ -31,3 +31,4 @@ swift.png
 tailwindcss.png
 typescript.png
 vue.png
+wasm.png
