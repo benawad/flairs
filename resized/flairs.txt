@@ -6,6 +6,7 @@ cpp.png
 css.png
 dart.png
 docker.png
+elixir.png
 flutter.png
 go.png
 haskell.png
@@ -13,6 +14,7 @@ html.png
 ionic.png
 java.png
 javascript.png
+julia.png
 jquery.png
 kafka.png
 kotlin.png
