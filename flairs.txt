@@ -7,6 +7,8 @@ css.png
 dart.png
 docker.png
 electron.png
+elixir.png
+flairs.txt
 flutter.png
 go.png
 haskell.png
@@ -15,6 +17,7 @@ ionic.png
 java.png
 javascript.png
 jquery.png
+julia.png
 kafka.png
 kotlin.png
 kubernetes.png
@@ -31,5 +34,6 @@ svelte.png
 swift.png
 tailwindcss.png
 typescript.png
+vala.png
 vue.png
 wasm.png
