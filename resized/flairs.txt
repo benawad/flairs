@@ -31,4 +31,5 @@ svelte.png
 swift.png
 tailwindcss.png
 typescript.png
+vala.png
 vue.png
