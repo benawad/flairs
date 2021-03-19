@@ -6,8 +6,11 @@ flairs = os.listdir("raw/")
 
 for flair in flairs:
     if flair.endswith(".png"):
-        im = Image.open("raw/" + flair)
-        im.resize((52, 52)).save("resized/" + flair)
+        # im = Image.open("raw/" + flair)
+        im = Image.open(f"raw/{flair}")
+        # im.resize((52, 52)).save("resized/" + flair)
+        im.resize((52, 52)).save(f"resized/{flair}")
+
 
 resized_flairs = os.listdir("resized/")
 
@@ -18,4 +21,6 @@ with open("map.js", "w") as f:
     d = {}
     for flair in resized_flairs:
         d[flair.split(".")[0]] = flair
-    f.write("export const flairMap = " + json.dumps(d))
+    # f.write("export const flairMap = " + json.dumps(d))
+    f.write(f"export const flairMap = {json.dumps(d)}")
+
